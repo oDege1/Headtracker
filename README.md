@@ -7,3 +7,4 @@ Este projeto consiste em um rastreador de cabeça (headtracker) desenvolvido par
 
 Para clicar com o botão esquerdo, o usuário pisca o olho esquerdo. Manter o olho esquerdo fechado permite arrastar objetos. Em resumo, o usuário move a cabeça para controlar o cursor do mouse.
 USO LIVRE
+código base; https://github.com/ProgrammingHero1/eye_controlled_mouse
